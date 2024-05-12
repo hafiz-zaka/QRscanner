@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#0097a7</color>
+    <color name="colorPrimaryDark">#0097a7</color>
+    <color name="colorAccent">#0097a7</color>
+
+    <color name="darkMainColor">#006978</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#c3c3c3</color>
+    <color name="light_grey_for_setting">#f1f1f1</color>
+
+    <color name="fab">#650097A7</color>
+
+    <color name="viewfinder_mask">#2e000000</color>
+    <color name="viewfinder_laser">#FF0000</color>
+    <color name="viewfinder_border">@color/colorPrimaryDark</color>
+
+</resources>

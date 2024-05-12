@@ -1,0 +1,123 @@
+<resources>
+
+    <!-- TODO Change those Ad ID by your own Ad ID -->
+    <!-- app ad section -->
+    <string name="app_ad_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!-- end of the ad section -->
+
+    <!-- TODO Change app name and splash text from here -->
+    <string name="app_name">QR/Barcode Scanner MAX</string>
+    <string name="splash_text">QR/Barcode Scanner MAX</string>
+    <string name="action_flash">Flash</string>
+    <string name="action_focus">Auto Focus</string>
+    <string name="action_cam">Switch Camera</string>
+
+    <string name="menu_scan">Scan</string>
+    <string name="menu_generate">Generate</string>
+    <string name="menu_history">History</string>
+    <string name="menu_setting">Setting</string>
+
+    <string name="rate_menu_title">Please rate the app</string>
+    <string name="rate_menu_message">Do you like the app?</string>
+    <string name="rate_menu_yes_btn">Yes</string>
+    <string name="rate_menu_no_btn">No</string>
+    <string name="rate_menu_maybe_btn">Rate later</string>
+
+    <string name="share">Install SuperB Scanner app from:</string>
+    <string name="tapAgain">Tap again to exit!</string>
+
+    <string name="allowCameraUse">Allow camera use</string>
+
+    <string name="permission_not_granted">Permission not granted!</string>
+
+    <string name="autofocus_on">Autofocus activated</string>
+    <string name="autofocus_off">Autofocus deactivated</string>
+
+    <string name="type_here_bar">Generate barcode</string>
+    <string name="type_here_qr">Generate QR code</string>
+    <string name="type_here_text">Enter text</string>
+    <string name="type_here_address">Enter address</string>
+    <string name="type_here_name">Enter name</string>
+    <string name="type_here_phone">Enter phone number</string>
+    <string name="type_here_url">Enter url</string>
+    <string name="type_here_email">Enter email</string>
+    <string name="type_here_email_subject">Enter subject</string>
+    <string name="type_here_wifi_ssid">Enter SSID/network name</string>
+    <string name="type_here_wifi_password">Enter password</string>
+    <string name="type_here_barcode">Enter data</string>
+    <string name="type_here_sms_phone_number">Enter phone number</string>
+    <string name="type_here_sms_text">Enter SMS message</string>
+    <string-array name="wifi_security_list">
+        <item>WPA/WPA2</item>
+        <item>WEP</item>
+        <item>No password</item>
+    </string-array>
+
+    <string name="copied">Copied to clipboard.</string>
+    <string name="result">Result</string>
+    <string name="scanned_result">Scanned result:</string>
+    <string name="scanned_type_qrcode">QR code:</string>
+    <string name="scanned_type_barcode">Barcode:</string>
+
+    <string name="saving">Saving...</string>
+    <string name="preparing">Preparing...</string>
+    <string name="saved_to">Saved to:\n</string>
+    <string name="directory_in">directory in SD card.</string>
+    <string name="no_history">History empty</string>
+
+    <string name="copy">Copy</string>
+    <string name="search">Search in Web</string>
+    <string name="share_text">Share</string>
+    <string name="action">Action</string>
+    <string name="date">Date</string>
+
+    <string name="action_visit">Browse URL</string>
+    <string name="action_youtube">Open Video in YouTube</string>
+    <string name="action_call">Call</string>
+    <string name="action_email">Email</string>
+    <string name="action_barcode">Barcode</string>
+
+    <string name="result_text">Text:</string>
+    <string name="result_url">URL:</string>
+    <string name="result_youtube">YouTube:</string>
+    <string name="result_phone">Phone:</string>
+    <string name="result_email">Email:</string>
+    <string name="result_barcode">Barcode:</string>
+    <string name="result_wifi">Wi-Fi:</string>
+    <string name="result_sms">SMS:</string>
+    <string name="result_vcard">Contact:</string>
+    <string name="result_geo">Geolocation:</string>
+
+    <string name="delete_message_item">Are you sure you want to delete this item?</string>
+    <string name="delete_message_all">Are you sure you want to clear the list?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="error_restart_app">An error has occurred, please restart the app</string>
+    <string name="error_unexpected">An unexpected error has occurred</string>
+    <string name="error_format">Wrong Barcode/QR format</string>
+    <string name="error_nothing_find">Nothing Found</string>
+    <string name="error_file">File not found</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_no_email_app">There are no email clients installed.</string>
+    <string name="error_wifi">Wi-Fi protocol error</string>
+
+    <string name="remove_ads">Remove ads</string>
+    <string name="restore_ads">Restore purchase</string>
+
+    <string name="settings_autofocus">Autofocus</string>
+    <string name="settings_vibrate">Vibrate</string>
+    <string name="settings_auto_links">Open URL automatically</string>
+    <string name="general">General</string>
+    <string name="other">Other</string>
+    <string name="rate_us">Rate us</string>
+    <string name="share_app">Share app</string>
+
+    <integer name="viewfinder_border_width">4</integer>
+    <integer name="viewfinder_border_length">60</integer>
+
+    <string name="version">Version 1.0.6</string>
+
+</resources>
